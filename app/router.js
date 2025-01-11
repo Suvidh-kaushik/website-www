@@ -17,4 +17,6 @@ Router.map(function () {
   this.route('debug');
   this.route('subscribe');
   this.route('profile');
+  this.route('login');
+  this.route('identity');
 });
